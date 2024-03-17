@@ -1,0 +1,17 @@
+{
+  "name": "com.unityexampls.quixotic-tools",
+  "version": "1.0.0-alpha",
+  "displayName": "Quixotic Tools",
+  "description": "Quixotic Tools Core And Utils",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Quixotic"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}
