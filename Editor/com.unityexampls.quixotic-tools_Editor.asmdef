@@ -1,0 +1,14 @@
+{
+    "name": "com.unityexampls.quixotic-tools_Editor",
+    "rootNamespace": "QuixoticTools",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
